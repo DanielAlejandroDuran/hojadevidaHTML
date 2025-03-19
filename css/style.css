@@ -133,7 +133,7 @@ img {
     border: 10px solid #49BADA;
 }
 
-about-txt {
+.about-txt {
     flex-basis: 60%;
 }
 
@@ -198,6 +198,43 @@ h2 {
     margin-bottom: 10px;
 }
 
+.about-container2  {
+    color: #FFFFFF;
+    font-family: 'Bebaas Neue', sans-serif;
+    padding: 20px;
+}
+
+.container4 {
+    position: relative;
+    height: 220px;
+    left: 0px;
+    top: -500px;
+    width: 300px;
+    background-color: #101630;
+    z-index: -1;
+}
+
+.about-container2 hr {
+    width:15%;
+    text-align:left;
+    margin-left:0
+}
+
+.about-container3 {
+    color: #FFFFFF;
+    font-family: 'Bebaas Neue', sans-serif;
+    padding: 20px;
+}
+
+.about-container3 hr {
+    width:35%;
+    text-align:left;
+    margin-left:0
+}
+
+.about-container4 {
+    color: #FFFFFF;
+}
 @media (max-width:991px) {
 
     .menu{
